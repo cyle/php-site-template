@@ -2,6 +2,10 @@
 
 no but really, that's all. it's a [CyleSoft](http://cylesoft.com/)-brand site template. this represents some of my (probably poor) development habits, but hey, it's better than that Ruby on Rails mess of a framework.
 
+## OKAY BUT HOW DO I USE THIS
+
+clone it, remove the git remote "origin", and start developing your PHP site. here, i'll explain some more...
+
 ## what goes where
 
 it's pretty straightforward.
