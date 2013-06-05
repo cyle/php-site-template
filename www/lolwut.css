@@ -1,0 +1,71 @@
+/* lol wut, some CSS for your stupid site */
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: "Helvetica", "Arial", sans-serif; /* probably replace with some google font */
+	font-size: 14px;
+	color: #222;
+}
+
+a:link, a:visited {
+	color: #b02a2a;
+}
+
+a:hover, a:active {
+	color: #4d1212;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+h2 {
+	font-weight: normal;
+	font-size: 2em;
+	color: black;
+}
+
+h3 {
+	font-size: 1.5em;
+	font-weight: normal;
+}
+
+ul, ol {
+	margin-left: 25px;
+}
+
+p {
+	line-height: 1.5;
+	margin-bottom: 1em;
+}
+
+div#footer {
+	margin-top: 50px;
+	font-size: 0.8em;
+	color: #aaa;
+}
+
+div#footer a {
+	color: inherit;
+}
+
+body > div {
+	margin: 25px;
+}
+
+img {
+	display: block;
+}
+
+/* MOBILE BREAKPOINT LOOLLLLLLLL */
+@media screen and (max-width: 500px) {
+	
+	body > div {
+		margin: 10px;
+	}
+	
+}
